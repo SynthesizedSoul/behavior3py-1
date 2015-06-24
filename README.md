@@ -1,4 +1,9 @@
-Behavior3Py
-===========
+# BEHAVIOR3PY (MOVED)
 
-Python port of Behavior3JS
+This project has been moved to
+
+- http://github.com/behavior3/behavior3py
+
+Consult our site to know more
+
+- http://behavior3.com
